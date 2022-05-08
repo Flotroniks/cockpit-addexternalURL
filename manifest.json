@@ -1,0 +1,9 @@
+{
+    "version": 0,
+    "tools": {
+        "addURL": {
+            "label": "Add custom URL",
+            "path": "addURL.html"
+        }
+    }
+}
